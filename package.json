@@ -1,6 +1,6 @@
 {
   "name": "rotor-component-transform",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Rotor transform component.",
   "main": "index.js",
   "repository": {
